@@ -1,5 +1,5 @@
 #  R4DS | 2016
-A work through of Hadley Wickham's brilliant guide to Data Science in R, along with the completed exercises.
+My worked through file of Hadley Wickham's brilliant guide to Data Science in R, along with the completed exercises.
 
 # Buy on Amazon
 Buy the book [here](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399).
